@@ -1,0 +1,4 @@
+manialib
+========
+
+Meta-package.
