@@ -1,0 +1,23 @@
+{
+    "name": "manialib/manialib",
+    "type": "library",
+    "description": "Meta-package for Manialib packages.",
+    "keywords": ["Ubisoft", "Nadeo", "ManiaPlanet", "ShootMania", "TrackMania", "Manialib"],
+    "license": "MIT",
+    "homepage": "https://github.com/manialib",
+    "authors": [
+        {
+            "name": "Nadeo",
+            "email": "contact@nadeo.com",
+            "homepage": "http://www.nadeo.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "4.0-dev"
+        }
+    }
+}
