@@ -1,6 +1,6 @@
 {
     "name": "manialib/manialib",
-    "type": "library",
+    "type": "metapackage",
     "description": "Meta-package for Manialib packages.",
     "keywords": ["Ubisoft", "Nadeo", "ManiaPlanet", "ShootMania", "TrackMania", "Manialib"],
     "license": "MIT",
