@@ -20,6 +20,8 @@ Manialib is a collection of modern PHP packages tailored for building online ser
  - Symfony-related:
   - [Manialib\ManialibBundle](https://github.com/manialib/manialib-bundle) Bundle for all components
   - [Manialib Symfony Skeleton](https://github.com/manialib/symfony-skeleton) It speaks for itself ^^
+ - Example:
+  - [Maniadoge](https://github.com/manialib/wow) Random braindumping \o/
 
 And more to come...
 
