@@ -14,6 +14,7 @@ Manialib is a collection of modern PHP packages tailored for building online ser
   - [Manialib\XML](https://github.com/manialib/xml) XML object abstraction
   - [Manialib\Manialink](https://github.com/manialib/manialink) Manialink object abstraction
   - [Manialib\Maniacode](https://github.com/manialib/maniacode) Maniacode object abstraction
+  - [Manialib\Maniacode](https://github.com/manialib/maniascript) Maniascript tools
   - [Manialib\Formatting](https://github.com/manialib/formatting) Object abstraction for formatting in Maniaplanet strings
  - Meta packages:
   - [Manialib](https://github.com/manialib/manialib) Meta package for all manialib

@@ -15,7 +15,10 @@
     "require": {
         "php": ">=5.5",
         "manialib/xml": "~4.0",
-        "manialib/manialink": "~4.0"
+        "manialib/manialink": "~4.0",
+        "manialib/maniacode": "~4.0",
+        "manialib/maniascript": "~4.0",
+        "manialib/formatting": "~4.0"
     },
     "minimum-stability": "dev",
     "extra": {
